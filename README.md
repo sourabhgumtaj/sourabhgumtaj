@@ -29,8 +29,6 @@
 
 <img align="left" alt="Sklearn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"/>
 
-<img align="left" alt="Pranav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranavUikey&show_icons=true&hide_border=true" />
-
 [website]: https://github.com/sourabhgumtaj
 [kaggle]: https://www.kaggle.com/sourabhgumtaj
 [linkedin]: https://www.linkedin.com/in/sourabh-gumtaj/
