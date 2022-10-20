@@ -41,6 +41,6 @@
 
 <img align="left" alt="Pranav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranavUikey&show_icons=true&hide_border=true" />
 
-[website]: https://pranavuikey.github.io
+[website]: https://github.com/sourabhgumtaj
 [kaggle]: https://www.kaggle.com/sourabhgumtaj
 [linkedin]: https://www.linkedin.com/in/sourabh-gumtaj/
