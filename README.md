@@ -1,7 +1,7 @@
 # Hi there, I'm Sourabh 👋
 
-## I'm a  Vehicle Operations Specialist @[VOI Technology AB, Gothenburg, Sweden]
-- 🔭 I’m currently working on Myself!
+## I'm a  Sr Software Engineer @[Agiliad Technologies Pvt Ltd, Pune, India]
+- 🔭 I’m currently working with Python Hardware Test Automation!
 - ⚡ Fun fact: I love travelling and my aim is to travel 30 countries till the age of 30🐶.
 
 ### Connect with me:
