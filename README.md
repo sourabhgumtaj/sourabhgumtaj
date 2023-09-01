@@ -1,6 +1,6 @@
 # Hi there, I'm Sourabh 👋
 
-## I'm a  Sr Software Engineer @[Agiliad Technologies Pvt Ltd, Pune, India]
+## I'm a  Senior Software Engineer @[Agiliad Technologies Pvt Ltd, Pune, India]
 - 🔭 I’m currently working with Python Hardware Test Automation!
 - ⚡ Fun fact: I love travelling and my aim is to travel 30 countries till the age of 30🐶.
 
